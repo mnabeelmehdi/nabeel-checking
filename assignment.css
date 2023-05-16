@@ -1,0 +1,27 @@
+*{
+    padding: 0;
+    margin: 0;
+   
+}
+.nav{
+    height: 100vh;
+    top: 0;
+    position: fixed;
+    width: 100%;
+    z-index: 1;  
+}
+ul {
+    list-style: none;
+   text-align: right;
+   display: flex;
+   
+}
+li {
+    padding: 5vh;    
+}
+
+.bgimg{
+    background-image: url(a6ky04nktj251.webp);
+    width: 100%;
+    
+}
